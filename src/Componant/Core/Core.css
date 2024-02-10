@@ -1,0 +1,15 @@
+.core{
+display: flex;
+justify-content: space-between;
+text-align: center;
+margin-left: 10px;
+}
+.bbb{
+
+margin-left: -20px;
+
+}
+.bbb img{
+
+margin-top: 10px;
+}

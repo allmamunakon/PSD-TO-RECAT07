@@ -1,0 +1,68 @@
+
+
+.MenuBar1{
+   position: relative;
+   
+   background-image: url('../1Menu/MP.png');
+   background-size:cover ;
+   background-repeat: no-repeat;
+   background-position: center center;
+   
+   
+   
+    
+}
+
+.MenuBar2{
+    
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    width: 100%;
+    background-color: hsla(0, 0%, 0%, 0.747);
+    top: 0;
+    left: 0;
+    padding: 5px 0 5px 0;
+    
+
+}
+
+
+
+.Menu ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+    
+}
+ li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    
+   
+    margin-left: 10px;
+}
+
+.build{
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Montserrat Subrayada', sans-serif;
+font-size: 50px;
+color: #ffff;
+padding-top:150px;
+line-height: 55px;
+text-transform: uppercase;
+padding-bottom: 30px;
+    
+}
+
+.digital{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    color:#ffff;
+    padding: 30px 0 30px 0;
+
+
+}
