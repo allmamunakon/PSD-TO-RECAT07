@@ -13,7 +13,7 @@ function MenuBar() {
         
         <h1 className=''> Dreams</h1>
          </div>
-<div className='Menu'>
+<div className='Menu text-light'>
    <uL className='list-unstyled  '>
     <li className='text-decoration-none'><a href='https://www.youtube.com/watch?v=Jo_PLMDbfsg'>Home</a></li>
     <li><a href='#'>Services</a></li>
