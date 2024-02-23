@@ -14,10 +14,11 @@ function MenuBar() {
         <h1 className=''> Dreams</h1>
          </div>
 <div className='Menu text-light'>
-   <uL className='list-unstyled  '>
+   <uL className='list-unstyled text-light   '>
     <li className='text-decoration-none'><a href='https://www.youtube.com/watch?v=Jo_PLMDbfsg'>Home</a></li>
     <li><a href='#'>Services</a></li>
     <li><a href='#'>Portfolio</a></li>
+    <li><a href='#'>mobile</a></li>
     <li><a href='#'>About</a></li>
     <li><a href='#'>Team1</a></li>
     <li><a href='#'>Contact</a></li>
