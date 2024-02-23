@@ -19,7 +19,7 @@ function MenuBar() {
     <li><a href='#'>Services</a></li>
     <li><a href='#'>Portfolio</a></li>
     <li><a href='#'>About</a></li>
-    <li><a href='#'>Team</a></li>
+    <li><a href='#'>Team1</a></li>
     <li><a href='#'>Contact</a></li>
 </uL>    
        </div>
